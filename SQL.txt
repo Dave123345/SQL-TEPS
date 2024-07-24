@@ -1,1 +1,3 @@
 https://github.com/DanArmor/picoCTF-2023-writeup/blob/main/Web%20Exploitation/More%20SQLi/More-SQLi.md
+
+https://medium.com/ctf-writeups/union-sqli-challenges-zixem-write-up-4e74ad4e88b4
